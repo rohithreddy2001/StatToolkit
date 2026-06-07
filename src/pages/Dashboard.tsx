@@ -44,7 +44,7 @@ export function Dashboard() {
       animate="show"
     >
       <motion.div variants={item}>
-        <h1 className="text-3xl font-bold tracking-tight mb-2">Welcome to StatToolkit ⭐.</h1>
+        <h1 className="text-3xl font-bold tracking-tight mb-2">Welcome to StatToolkit ⭐</h1>
         <p className="text-muted-foreground">
           Upload data or resume your recent analysis.
         </p>
